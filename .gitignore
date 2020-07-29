@@ -1,0 +1,9 @@
+
+# macOS metadata
+.DS_Store
+
+# Packed extension
+*.crx
+
+# Private key
+*.pem
