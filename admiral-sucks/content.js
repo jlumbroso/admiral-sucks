@@ -26,7 +26,7 @@ for(var i = 0; i < document.styleSheets.length; i++) {
     try {
         classes = document.styleSheets[i].rules || document.styleSheets[i].cssRules;
     } catch (e) {
-        console.warn("Can't read the css rules of: " + document.styleSheets[i].href, e);
+        console.log("Can't read the css rules of: " + document.styleSheets[i].href, e);
         continue;
     }
     for(var j = 0; j < document.styleSheets[i].rules.length; j++) {
