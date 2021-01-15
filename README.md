@@ -14,14 +14,17 @@ at [`chrome://extensions`](chrome://extensions).
 ## Why?
 
 [Admiral](https://www.getadmiral.com/adblock-recovery) is a company that makes
-money from helping web site monetize their content. They have provide a variety
+money from helping web site monetize their content. They provide a variety
 of services, but one that is very distasteful is the _AdBlock Recovery_: First,
-they show a website how much of inbound traffic uses an adblocker; second, it
-offers to block that adblocker; third, it promises only to take 30% of new
+they show a website how much inbound traffic uses an adblocker; second, they
+offer to block such adblockers; third, they promise only to take 30% of new
 revenue brought in from the paywall---therefore paying for itself!
 
 News, especially local news, deserves to be supported. But [not at the expense
 of our mental health](https://www.psychologytoday.com/us/blog/ulterior-motives/201008/what-does-advertising-do).
+
+At the heart of the problem, the Internet offers us access to a wide variety of
+different publications and websites.
 
 A much more holistic solution to the problem of adblocking, is
 [Scroll](https://scroll.com/): Users pay a fixed subscription every month
