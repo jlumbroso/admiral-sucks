@@ -24,9 +24,12 @@ News, especially local news, deserves to be supported. But [not at the expense
 of our mental health](https://www.psychologytoday.com/us/blog/ulterior-motives/201008/what-does-advertising-do).
 
 At the heart of the problem, the Internet offers us access to a wide variety of
-different publications and websites.
+different publications and websites. We do not want to have a full subscription
+package to each of those, but would rather be able to purchase articles on a
+unit basis. This requires a micropayment infrastructure that has taken very
+long to implement the right way.
 
-A much more holistic solution to the problem of adblocking, is
+Indeed, a much more holistic solution to the problem of adblocking, is
 [Scroll](https://scroll.com/): Users pay a fixed subscription every month
 ($5/month) and this money is distributed to all participating websites that
 the user visits, prorated to the proportion of content consumed on each website;
