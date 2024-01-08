@@ -5,6 +5,12 @@ This provides a Chrome extension meant to neutralize
 with the click a button. Whenever the AdBlock Recovery paywall invites you to
 "Turn off your AdBlocker", click this button instead.
 
+## 2024 Update
+
+As of January 7, 2024, this extension, untouched, works with a wide range of websites because the heuristic it uses to target the anti-AdBlock paywall is fairly robust.
+
+Some resistant websites have emerged, and I am actively investigating them. Please report specific URLs in the issues. Thank you!
+
 ## Install
 
 [Download this repository](https://github.com/jlumbroso/admiral-sucks/archive/master.zip),
