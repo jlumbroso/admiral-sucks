@@ -11,6 +11,8 @@ As of January 7, 2024, this extension, untouched, works with a wide range of web
 
 Some resistant websites have emerged, and I am actively investigating them. Please report specific URLs in the issues. Thank you!
 
+As of February 14, 2024, I have added a new **STEROID MODE** which is activated when clicking the extension icon *a second time*. This mode is more aggressive and may work on websites that were previously resistant, as well as on websites which reject attempts to circumvent the paywall using the previous mode.
+
 ## Install
 
 [Download this repository](https://github.com/jlumbroso/admiral-sucks/archive/master.zip),
