@@ -1,8 +1,9 @@
 // Called when the user clicks on the browser action.
-chrome.browserAction.onClicked.addListener(function(tab) {
+chrome.action.onClicked.addListener((tab) => {
     // No tabs or host permissions needed!
     console.log("Applying Admiral Sucks! removal to: " + tab.url);
-    chrome.tabs.executeScript({
-        file: "content.js"
+    chrome.scripting.executeScript({
+        target: {tabId: tab.id},
+        files: ['content.js']
     });
 });
